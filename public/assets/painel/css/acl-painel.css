@@ -1,0 +1,123 @@
+.logo{
+    width: 100%;
+    margin-top: 28px;
+}
+.menu{
+    background: rgba(28, 72, 70, 0.87);
+    margin: 0px;
+    padding: 0px;
+}
+ul.menu{
+    list-style: none;
+    width: 100%;
+    margin: 0px;
+    padding: 12px;
+}
+ul.menu li{
+    /* display: inline; */
+    text-align: center;
+}
+ul.menu li a{}
+ul.menu li h1{
+    font-size: 18px;
+    margin: 4px;
+    color: #FFF;
+    font-weight: bold;
+}
+img.img-menu{
+    max-width: 100px;
+}
+a:hover{text-decoration: none;}
+
+.clear{clear: both;}
+
+
+.actions{
+    background: #579491;
+}
+a.add{
+    background: rgba(28, 72, 70, 0.87);
+    padding: 12px;
+    float: left;
+    margin: 5px;
+    color: #FFF;
+    border-radius: 4px;
+}
+form.form-search{
+    float: left;
+    margin: 10px;
+}
+
+div.relatorios{}
+ul.relatorios{
+    float: left;
+    width: 100%;
+    list-style: none;
+    margin: 39px 0px;
+}
+ul.relatorios li a{
+    background: rgba(28, 72, 70, 0.87);
+    margin: 14px 0px;
+    float: left;
+    width: 100%;
+    padding: 14px;
+}
+ul.relatorios li h1{
+    color: #FFF;
+    font-size: 16px;
+}
+
+
+.permission{
+    background: #579491;
+    padding: 8px;
+    color: #FFF;
+    border-radius: 4px;
+    margin: 4px;
+}
+.edit{
+    background: #5A1F17;
+    padding: 8px;
+    color: #FFF;
+    border-radius: 4px;
+    margin: 4px;
+}
+.delete{
+    background: #D21800;
+    padding: 8px 10px;
+    color: #FFF;
+    border-radius: 4px;
+    margin: 4px;
+}
+
+h1.title{
+    color: #395F5D;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p.footer{margin: 5px;color: #FFF;font-weight: bold;}
+
+div.login{
+    max-width: 500px;
+    margin: 70px auto;
+    background: #E8E8E8;
+    /* padding: 20px 10px; */
+    /* border: 1px solid rgba(28, 72, 70, 0.87); */
+}
+form.login{
+    padding: 10px;
+}
+.login-header{
+    text-align: center;
+    padding: 10px;
+    background: rgba(28, 72, 70, 0.87);
+}
+img.logo-login{max-width: 150px;}
+form.login input{
+    border-radius: 0px;
+    height: 50px;
+    color: rgba(28, 72, 70, 0.87);
+}
+.btn-login{background: rgba(28, 72, 70, 0.87);width: 100%;color: #FFF !important;font-weight: bold;font-size: 18px;}
+a.recuperar{color: rgba(28, 72, 70, 0.87);}
